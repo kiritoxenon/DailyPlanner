@@ -10,3 +10,6 @@
 #Chat lang sa gc if may suggestions and questions.
 
 #SALAMAT 🐶
+------------------------------------------------
+FOR GUI DEVELOPERS,
+-please make buttons and suggestions/queries to the messenger group chat. Thanks
